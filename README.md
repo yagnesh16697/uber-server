@@ -1,2 +1,2 @@
 # uber-server
-Server for the uber clone.
+Server for the Uber clone.
